@@ -1,1 +1,1 @@
-https://gustavo385-space.github.io/Laboratorio2/
+LaboratorioJava2
